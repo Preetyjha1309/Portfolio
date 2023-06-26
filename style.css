@@ -1010,3 +1010,8 @@ footer a i{
          font-size: 1rem;
     }
 } 
+@media(max-width:360px){
+  .btn-box{
+    width:323px;
+  }
+} 
