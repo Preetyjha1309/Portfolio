@@ -1012,6 +1012,12 @@ footer a i{
 } 
 @media(max-width:360px){
   .btn-box{
-    width:323px;
+    width: 248px;
+  }
+  html{
+    font-size: 70%;
+  }
+  .info-box{
+    width:232px;
   }
 } 
